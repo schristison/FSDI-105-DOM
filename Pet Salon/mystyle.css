@@ -1,0 +1,99 @@
+body{
+    font-family: 'Lato', sans-serif;
+}   
+.header-in{
+    background: rgba(27, 26, 27, 0.945);
+    color: rgba(216, 170, 84, 0.959);
+    display: flex;
+    justify-content: space-between;
+    height: 20vh;
+    padding-top: 3rem;
+    align-items: center;
+    
+}
+.menu nav a{
+    color: rgba(216, 170, 84, 0.959);
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+
+.img-logo{
+    width: 40%;
+    height: 15rem;
+    margin-left: 30%;
+    margin-right: auto;
+}
+h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+#info{
+    font-size: 1rem;
+    color: white;
+    height: 45rem;
+    background: rgba(27, 26, 27, 0.986);
+}
+/* .info{
+    font-size: 1rem;
+    color: black;
+    height: 15rem;
+    color: blue;
+    background: #e1e1e1;
+} */
+h2{
+    color: rgb(201, 153, 64);
+    text-align: center;
+    font-size: 3rem;
+}
+p{
+    font-size: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+#btnRegister{
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    background: rgba(216, 170, 84, 0.959);
+    padding: 5px;
+    border-radius: 5px;
+    border-color: black;
+    
+}
+.footer-in{
+    color: #464040;
+    font-size: 1rem;
+    background: white;
+    border-top: 1px solid black;
+    height: 20rem;
+    width: 100%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 0.5rem;
+}
+.footer-img{
+    width: 20rem;
+    height: 8rem;
+    border: none;
+    padding: 1rem;    
+}
+.found{
+    background: rgba(124, 87, 19, 0.959);
+}
+.input-text{
+    width: 30%;
+}
+.centering-elements{
+    margin-left: 10rem;
+    
+}
+.form-section{
+    width: 60%;
+} 
+.search{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
